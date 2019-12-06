@@ -1,0 +1,2 @@
+signals: signal.c
+	gcc
